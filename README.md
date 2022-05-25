@@ -4,16 +4,16 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-Ferreira-LS&layout=compact&langs_count=7&theme=merko"/>
 </div>  
   <div style="display: inline_block"><br>
-  <img align="center" alt="java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg " />
+  <img align="center" alt="java" height="30" width="40"src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
           
-  <img align="right" alt="efls" height="150" style="border-radius:50px;" src="C:\Users\Admin\Downloads\Polish_20220525_140218870">
+  <img align src="C:\Users\Admin\Downloads\Polish_20220525_140218870">
 </div>
   
   ##
   
   <div>
   <a href="https://www.instagram.com/emanoelferreira_lunguinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-  ![ Animação de cobra ](https://github.com/Emanoel-Ferreira-LS/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/Emanoel-Ferreira-LS/Emanoel-Ferreira-LS/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   
