@@ -17,4 +17,5 @@
   <div>
     <h5>Minhas Redes Sociais</h5>
   <a href="https://www.instagram.com/emanoelfls.dev/" target="_blank"><img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" target="_blank" width="40"></a>  
+    ![Snake animation](https://github.com/Sophia-Freire/Sophia-Freire/blob/output/github-contribution-grid-snake.svg)
   </div>
