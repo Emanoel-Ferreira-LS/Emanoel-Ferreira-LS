@@ -18,5 +18,5 @@
  
   <div>
     <h5>Minhas Redes Sociais</h5>
-  <a href="https://www.instagram.com/emanoelfls.dev/" target="_blank"><img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" target="_blank" width="40"></a>      
+  <a href="https://www.instagram.com/emanoelfls.dev/" target="_blank"><img src="https://freelogopng.com/images/all_img/1683191308instagram-logo-black-and-white.png" target="_blank" width="60"></a>      
   </div>
