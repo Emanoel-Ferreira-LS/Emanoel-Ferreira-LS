@@ -10,6 +10,8 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="icone html5 e css3" heigth="33" width="65">
     -
    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="icone javaScript" heigth="17" width="35">
+    -
+   <img align="center" src="https://seeklogo.com/images/E/electron-software-logo-C231A437EA-seeklogo.com.png" alt="icone javaScript" heigth="45" width="45">
 </div>
  
   ##
