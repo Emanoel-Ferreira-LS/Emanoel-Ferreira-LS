@@ -12,6 +12,8 @@
    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="icone javaScript" heigth="17" width="35">
     -
    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png?20190331235051" alt="icone javaScript" heigth="45" width="45">
+    -
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="icone javaScript"  width="70">
 </div>
  
   ##
