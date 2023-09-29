@@ -1,3 +1,5 @@
+<h3 align="center">Hi, developer!👋 I am Emanoel<h3>
+
 <div align="center">
   <a href="https://github.com/Emanoel-Ferreira-LS">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Emanoel-Ferreira-LS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -24,5 +26,7 @@
  
   <div>
     <h5>Minhas Redes Sociais</h5>
-  <a href="https://www.instagram.com/emanoelfls.dev/" target="_blank"><img src="https://freelogopng.com/images/all_img/1683191308instagram-logo-black-and-white.png" target="_blank" width="60"></a>      
+  <a href="https://www.instagram.com/emanoelfls.dev/" target="_blank"><img src="https://freelogopng.com/images/all_img/1683191308instagram-logo-black-and-white.png" target="_blank" width="60"></a>   
+    -
+ <a href="www.linkedin.com/in/emanoel-ferreira-lunguinho-284418255" target="_blank"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" target="_blank" width="60"></a> 
   </div>
