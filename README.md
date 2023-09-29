@@ -28,5 +28,5 @@
     <h5>Minhas Redes Sociais</h5>
   <a href="https://www.instagram.com/emanoelfls.dev/" target="_blank"><img src="https://freelogopng.com/images/all_img/1683191308instagram-logo-black-and-white.png" target="_blank" width="60"></a>   
     -
- <a href="www.linkedin.com/in/emanoel-ferreira-lunguinho-284418255" target="_blank"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" target="_blank" width="60"></a> 
+ <a href="https://www.linkedin.com/in/emanoel-ferreira-lunguinho-284418255" target="_blank"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" target="_blank" width="60"></a> 
   </div>
